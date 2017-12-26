@@ -22,6 +22,13 @@ If you cannot guess the sequence by the 6th guess, then you lose. If you get it 
 ```bash
 $ python MastermindUI.py
 ```
+<p align="center">
+  
+  <img 
+    src="Mastermind UI.PNG" 
+    width="100%">
+</p>
+
 
 * You must use Capital Letters: R, G, Y, O, B, P.
 * You can use the Left and Right arrow keys to move left and right
